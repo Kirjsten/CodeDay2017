@@ -1,0 +1,19 @@
+-DELETE THIS SECTION BEFORE PROCESSING
+-The order of the data is as follows
+
+-UPC-A, item name, manufactor, recycle number
+
+-UPC-E has 8 digits
+-UPC-A has 12 digits
+-EAN has 13 digits
+
+
+
+0012000000133
+Pepsi Cola single can
+Pepsi Cola Company
+8
+0049000006346
+Coca-Cola Classic 12 oz can
+Coca-Cola Company
+8

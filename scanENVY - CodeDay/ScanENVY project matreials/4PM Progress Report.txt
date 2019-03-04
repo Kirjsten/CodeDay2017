@@ -1,0 +1,38 @@
+4:00 Progress Report
+
+-----ALONSO------
+Learning to code in python to code for comment section. make best comments come to the top. Reddit comment system. filter by best or new?
+
+-----TOBY----- 
+making system to get info from Daniel database about what the product is, use that to compile all main data. Recyclable, comments, etc. It will be passed to Shanes portion of the program.
+Dictionary???
+Passing (Name, 
+
+-----THOMAS-----
+working on GUI. logo file, open barcode image, and enter upc
+
+-----SHANE-----
+take upc, pass to Daniel's object database constructor, then process
+digit 1 = nothing
+digit 2-6 = manufacturer
+digit 7-9 = family code
+digit 10-11 = value code
+digit 12 = check digit
+
+-----KIRJSTEN-----
+Worked on large and small logos for GUI
+Figured out a number system for the recyclables to store a number in object instead of a string.
+
+0 and 7= not recyclable
+   0 = All recycle exceptions from glass, batteries, and electronics.
+   7 = All recycle exceptions from plastic.
+1-6 = plastic (Recyclable)
+8 = metals (Recyclable)
+9 = cardboard/paper (Recyclable)
+10 = glass (Recyclable)
+11 = batteries/bulb (Special Recycle)
+12 = electronics (special Recycle)
+
+
+-----DANIEL-----
+working on object/object database

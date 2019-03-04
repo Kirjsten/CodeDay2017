@@ -1,0 +1,28 @@
+-Use the UPC-A for the barcode look up
+
+-If barcode is wrong, edit barcode
+-If bar code isnt there please fill out the following information
+
+Woops, Looks like you are the first to enter this barcode informationcode
+Item Name:
+Manufacture:
+Recycle Type: 
+
+swtich(recycle)
+-0 - not recyclable
+1 - plastic code 1
+2 - plastic code 2
+3 - plastic code 3
+4 - plastic code 4
+5 - plastic code 5
+6 - plastic code 6
+-7 - plastic code 7 - 0
+8 - metal
+9 - cardboard/paper
+10 - glass
+11 - batteries/bulbs
+12 - electronics
+default:
+	//not recyclable
+	break;
+To look up recycle type feel free to go to our information page to know what is and isnt recyclable.
